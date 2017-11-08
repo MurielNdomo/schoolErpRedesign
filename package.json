@@ -1,0 +1,28 @@
+{
+  "name": "schoolerpredesign",
+  "version": "1.0.0",
+  "description": "mastering webpack, react, redux , python, django,django rest",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MurielNdomo/schoolErpRedesign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MurielNdomo/schoolErpRedesign/issues"
+  },
+  "homepage": "https://github.com/MurielNdomo/schoolErpRedesign#readme"
+}
